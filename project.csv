@@ -1,0 +1,7 @@
+Device_ID,Type,Status,Temperature,Error_Code
+PLC_101,Conveyor,OK,45.2,0
+PLC_102,Sorter,WARNING,65.8,12
+SN_201,Scanner,OK,38.1,0
+MT_304,Motor,ERROR,89.5,104
+PLC_103,Conveyor,OK,42.0,0
+MT_305,Motor,WARNING,72.3,15
